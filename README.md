@@ -10,9 +10,7 @@ Gamenite dev kit consists of three parts :
 - A server that relays messages between the game and the controllers
 
 ````
-Main    ->         ->   Controller
-           Server
-Game   <-          <-   Controller
+Main Game < -- > Server < -- > Controller 
 ````
 
 The main game is an executable that is ran on the console.
