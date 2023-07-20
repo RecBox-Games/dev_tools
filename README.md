@@ -21,4 +21,4 @@ The instructions for each piece of software is located in their respective folde
 ### Support
 
 - We currently offer **C/C++**, **Unity**, **Godot** libraries / plug-ins
-- The controller may be programmed /compiled to **JavaScrip**, **TypeScript**
+- The controller may be programmed /compiled to **JavaScrip**, **TypeScript**, **HTML5**
